@@ -1,16 +1,16 @@
 # StudentRegistration
 ### Step 1
--ADD database to your mysql server
+-ADD database to your mysql server </br>
 
 ### Step 2
--Open src\config\DBConfig.java
- add your dbsever username
- add your dbsever password
- add your dbname
+-Open src\config\DBConfig.java  </br>
+ add your dbsever username  </br>
+ add your dbsever password  </br>
+ add your dbname  </br>
 
 ### Step 3
-- Run
--username :  admin
+- Run </br>
+-username :  admin </br>
 -password :  admin
  
 

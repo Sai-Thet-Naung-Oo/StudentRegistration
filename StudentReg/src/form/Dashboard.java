@@ -141,7 +141,7 @@ public class Dashboard {
 				staffpanel.setVisible(true);
 			}
 		});
-		mntmNewMenuItem_6.setBackground(Color.CYAN);
+		
 		mntmNewMenuItem_6.setFont(new Font("Tahoma", Font.BOLD, 14));
 		staffMenu.add(mntmNewMenuItem_6);
 
